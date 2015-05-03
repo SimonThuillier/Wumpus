@@ -89,7 +89,7 @@ public class MenuPrincipal extends JFrame {
 	    tab_jtextfield[0].setBorder(BorderFactory.createEmptyBorder());
 	    tab_jtextfield[0].setFont(new Font("Calibri", Font.BOLD,40));
 	    tab_jtextfield[0].setHorizontalAlignment(JTextField.CENTER);
-	    tab_jtextfield[0].setText("Projet IA Wumpus");
+	    tab_jtextfield[0].setText("Projet IA Wumpus - version de cours");
 	        
 	    tab_jpanel[0].add(tab_jtextfield[0]);
 
