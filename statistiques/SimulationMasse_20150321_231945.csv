@@ -1,0 +1,11 @@
+nbCaseTotal;nbCaseI;nbCaseJ;probaPuit;nbPuit;nbFlecheInitial;scoreInitial;etatJeuFinal;nbTours;scoreFinal;nbCaseVisitee;wumpusMort;nbMouvement;nbMouvementBloque;nbTir;nbRamasse;nbAbandon;tempsMoyenObservationIA;tempsMoyenDecisionIA;
+25;5;5;0.1;2;1;12;PERDU;0;0;12;0;14;0;0;0;1;0.0;0.0;
+25;5;5;0.1;1;1;12;GAGNE;28;-2;19;0;26;0;0;1;0;0.0;0.0;
+25;5;5;0.1;1;1;12;GAGNE;19;7;15;0;17;0;0;1;0;0.0;0.0;
+25;5;5;0.1;3;1;12;PERDU;3;-11;2;0;2;0;0;0;0;0.0;0.0;
+25;5;5;0.1;3;1;12;GAGNE;12;14;7;0;10;0;0;1;0;0.0;0.0;
+25;5;5;0.1;5;1;12;GAGNE;2;24;0;0;0;0;0;1;0;0.0;0.0;
+25;5;5;0.1;4;1;12;GAGNE;10;16;6;0;8;0;0;1;0;0.0;0.0;
+25;5;5;0.1;1;1;12;GAGNE;35;-9;22;0;33;0;0;1;0;0.0;0.0;
+25;5;5;0.1;6;1;12;PERDU;6;-14;4;0;5;0;0;0;0;0.0;0.0;
+25;5;5;0.1;1;1;12;GAGNE;25;1;19;0;23;0;0;1;0;0.0;0.0;

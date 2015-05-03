@@ -1,0 +1,6 @@
+nbCaseTotal;nbCaseI;nbCaseJ;probaPuit;nbPuit;nbFlecheInitial;scoreInitial;etatJeuFinal;nbTours;scoreFinal;nbCaseVisitee;wumpusMort;nbMouvement;nbMouvementBloque;nbTir;nbRamasse;nbAbandon;tempsMoyenObservationIA;tempsMoyenDecisionIA;
+400;20;20;0.1;39;1;200;GAGNE;126;276;95;0;124;0;0;1;0;0.0;0.0;
+400;20;20;0.1;42;1;200;GAGNE;217;185;157;0;215;0;0;1;0;0.0;0.0;
+400;20;20;0.1;49;1;200;PERDU;20;-28;13;0;19;0;0;0;0;0.0;0.0;
+400;20;20;0.1;49;1;200;PERDU;39;-47;27;0;38;0;0;0;0;0.0;0.0;
+400;20;20;0.1;38;1;200;GAGNE;328;74;231;0;326;0;0;1;0;0.0;0.0;

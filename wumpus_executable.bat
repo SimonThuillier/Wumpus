@@ -1,0 +1,1 @@
+java -jar E:\Documents\eclipseWorkspace\wumpus\wumpus_executable.jar
