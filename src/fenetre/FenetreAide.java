@@ -110,7 +110,8 @@ public class FenetreAide extends JFrame {
 	    
 	    texteAPropos = texteAPropos + "Controles de jeu libre : " + "\r\n";
 	    texteAPropos = texteAPropos + "Deplacements avec les fleches clavier " + "\r\n";
-	    texteAPropos = texteAPropos + "Tirer des fleches : Haut : Z, Droite : D, Bas : X, Gauche : Q\r\n \r\n "
+	    texteAPropos = texteAPropos + "Tirer des fleches : Haut : Z, Droite : D, Bas : X, Gauche : Q\r\n";
+	    texteAPropos = texteAPropos + "Ramasser le lingot : Espace\r\n \r\n "
 	    		+ "Statistiques : \r\n"
 	    		+ " Elles sont stockées dans le dossier statistiques depuis la racine de l'application (emplacement du .jar)" + "\r\n\r\n";
 	    
